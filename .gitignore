@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+**/api/config.php
+**/uploads/**
+!**/uploads/.htaccess
+**/models/
+__pycache__/
+*.pyc
+*.zip
+*.apk
+existing-data.sql
+imported-accounts.txt
+*.log
